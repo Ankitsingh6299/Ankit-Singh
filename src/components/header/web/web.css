@@ -4,16 +4,23 @@
     align-items: center;
 }
 .web-option{
-    font-size: 20px;
+    font-size: 25px;
     margin-right: 16px;
     font-weight: 700;
+    padding: 30px;
+    text-decoration: none;
 }
 
 .web-option a{
-    text-decoration: null;
+    text-decoration: none;
     color: black;
     display: flex ;
     align-items: center;
+
+}
+.web-option a:hover{
+font-style: oblique;
+text-decoration: underline;
 }
 .option-icon{
     display: flex;

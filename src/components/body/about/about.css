@@ -1,5 +1,6 @@
 .about{
-    padding-bottom: 40px;
+    padding: 40px;
+    padding-top:45px;
 }
 .about-top{
     display: flex;
@@ -11,6 +12,7 @@
 }
 .about-info{
     font-size: 24px;
+    padding-right: 10px;
 }
 .info-name{
     color: blue;

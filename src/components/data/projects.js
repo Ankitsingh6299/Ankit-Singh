@@ -9,10 +9,10 @@ export const ProjectData=[
     },
     {
         id:2,
-        title:"Student Score Prediction",
-        desc:"This model roughly predicts the student score on the basis of hours of study.",
-        tags:["Data Visualization","numpy","pandas","matplotlib","Linear regression"],
-        github:"https://github.com/Ankitsingh6299/Student_Score-Prediction/blob/main/Student_Score.ipynb",
+        title:"SnapAndEat",
+        desc:"This project is basically a food e-commerce. The project is currently under progress.At present the cart logic and list rendering of available items have been implemented",
+        tags:["JavaScript","HTML","CSS","React","API integration","Firebase"],
+        github:"https://github.com/Ankitsingh6299/snapAndEat",
         image:"/img/proj2.png",
     },
 ]

@@ -7,7 +7,7 @@ function About() {
     return( <div className='about'>
         <div className='about-top'>
             <div className='about-info'>
-            Hello there, I'm a <span className='info-name'>
+            Hello there, I'm <strong>Ankit Singh Chouhan</strong> and I'm a <span className='info-name'>
             <Typewriter
             options={{
                 autoStart: true,
@@ -27,7 +27,7 @@ function About() {
       .start();
   }}
 /><span>  </span></span>
-            <span>  </span>and I love playing with the web and data. 
+            <span>  </span>and I love playing around with web and data. Currently I'm learning and enhancing my React-"ING" skills.And further I want to dive into the ML field.
             </div>
         <div className='about-photo'>
             <img src="/img/code.png" className='picture' alt='Not available' />

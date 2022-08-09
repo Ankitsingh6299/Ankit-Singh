@@ -8,6 +8,7 @@
     padding: 18px 12px;
     display: flex;
     flex-direction: column;
+    z-index: 99;
 }
 
 .close-icon{
@@ -19,14 +20,17 @@
     display: flex;
     flex-direction: column;
     width: 100%;
-    padding-top: 24px;
-    justify-content: center;
-    align-items: center;
+    padding-top: 22px;
+    text-align: center;
+    justify-content: space-around;
+    padding-left: 110px;
+    
+    
     height: 100%;
 }
 .mobile-option{
     font-size: 24px;
-    margin: 12px 0px;
+    margin: 0px 0px;
     display: flex;
 }
 .mobile-option a{

@@ -5,7 +5,7 @@ export const WorkData=[
         dateJoining:"01/07/2021",
         dateEnd:"Present",
         companyLogo:"/img/tcs.jpg",
-        work: "I am in the Business Acceptance team and currently a part of the Parallel Run Team. Worked for 2 clients - Sunlife Financial of Canada and Lloyd's banking group.",
+        work: "My domain is BFSI and I'm in the parallel run team and I have worked for 2 clients.Initially my task was to validate source data with migrated data, then I also worked in the RPA team and also played role as a developer. Got the Special Initiative Award and Learning Achievement Award as a part of this project",
     },
     {
         company:"SocialNinjaz Pvt Ltd",
