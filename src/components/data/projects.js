@@ -13,6 +13,6 @@ export const ProjectData=[
         desc:"This project is basically a food e-commerce. The project is currently under progress.At present the cart logic and list rendering of available items have been implemented",
         tags:["JavaScript","HTML","CSS","React","API integration","Firebase"],
         github:"https://github.com/Ankitsingh6299/snapAndEat",
-        image:"/img/proj2.png",
+        image:"/img/snapEatShot.png",
     },
 ]
